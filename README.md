@@ -10,7 +10,7 @@ alcohol laws by making sure they do not sell alcohol to people underage.
 <li> Computer vision methods can be used to determine the age of a person from a photo.</li> 
 <li> The task then is to build and evaluate a model for verifying people's age. </li> 
 </p> 
-<p>FTo start working on the task, you'll have a set of photographs of people with their ages indicated.
+<p>To start working on the task, you'll have a set of photographs of people with their ages indicated.
 </p>
 <br>
 <p>
